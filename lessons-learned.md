@@ -16,7 +16,7 @@ Try not _only_ learn from people who teach about it but not actually understand 
 
 ## over engineering
 
-In every company I worked for there were over engineered projects because they were too worried about scaling the app later.
+I can't tell how much times I saw myself and others worrying too much about scaling the app to early resulting in over engineered projects.
 
-I’d recommend to do the simplest thing first \(with good sense\) and only scale when needed.
+I try to always keep in mind to do the simplest thing first \(with good sense\) and only scale when needed.
 
