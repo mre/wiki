@@ -15,5 +15,12 @@ This was inspired on Nikita Voloboev’s [wiki](https://wiki.nikitavoloboev.xyz/
 * [learn-anything.xyz](https://learn-anything.xyz/) \(really good to pick a subject and get a lot to read\)
 * [dev.to](https://dev.to/) \(just in case you didn't know about it yet\)
 
+## Books
+
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson \(free online\)
+* [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+* [The Rails 5 Way](https://www.goodreads.com/book/show/30990216-the-rails-5-way) by Obie Fernandez and Kevin Faustino
+* [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled) by by Wladston Ferreira Filho
+
 
 
