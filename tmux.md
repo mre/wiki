@@ -4,7 +4,7 @@ description: Tmux is a terminal multiplexer.
 
 # Tmux
 
-It lets you switch easily between several programs in one terminal, detach them \(they keep running in the background\) and reattach them to a different terminal.
+It let you switch easily between several programs in one terminal, detach them \(keep them running in the background\) and reattach them to a different terminal.
 
 I really like it because I can customize a bunch of things like how it looks, shortcuts, add useful information to the status line, even integrate it with `vim` and combine commands which works really well.
 
