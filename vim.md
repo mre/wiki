@@ -11,7 +11,7 @@ Actually I use [neovim](https://neovim.io/) which is a fork of vim that **just w
 Vim is great, but it's not a boost in productivity by itself. What boosts productivity IMO is:
 
 * use a fast text editor \(like vim, sublime text, emacs\)
-* learning **every single** shortcut and feature
+* learn **every single** shortcut and feature
 * extend your editor writing commands, snippets, plugins
 * be focused on getting things done
 
