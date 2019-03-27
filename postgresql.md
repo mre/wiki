@@ -31,7 +31,7 @@ Basically, if you need to query a table by column1 and column2 **often enough** 
 
 The cost is that you save that index into memory \(RAM\) which is limited.
 
-This is a query that we use at [Fera.ai](https://www.fera.ai/) and that was created by our [CEO](https://www.fera.ai/team/) to mesure our tables and indexes so we can improve our database server performance:
+This is a query that we use at [Fera.ai](https://www.fera.ai/) and that was created by someone \(maybe from this [gist](https://gist.github.com/izbor/8b4a91a23008bae1488ebde23f6a1911) or [this](https://gist.github.com/jayelkaake/efe336b613657c20f47a7fd4879d73cc)\) to mesure tables and indexes so we can improve our database server performance:
 
 ```sql
 SELECT
