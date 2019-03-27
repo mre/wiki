@@ -12,7 +12,7 @@ Vim is great, but it's not a boost in productivity by itself. What boosts produc
 
 * use a fast text editor \(like vim, sublime text, emacs\)
 * learn **every single** shortcut and feature
-* extend your editor writing commands, snippets, plugins
+* extend your editor by writing commands, snippets, plugins
 * be focused on getting things done
 
 ## blog posts
