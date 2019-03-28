@@ -16,7 +16,7 @@ Try not _only_ learn from people who teach about it but not actually understand 
 
 ## over engineering
 
-I can't tell how much times I saw myself and others worrying too much about scaling the app too early resulting in over engineered projects.
+I can't tell how many times I saw myself and others worrying too much about scaling the app too early resulting in over engineered projects.
 
 I try to always keep in mind to do the simplest thing first \(with good sense\) and only scale when needed.
 
