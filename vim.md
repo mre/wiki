@@ -17,7 +17,7 @@ Vim is great, but it's not a boost in productivity by itself. What boosts produc
 
 ## blog posts
 
-* [ten years of vim](https://matthias-endler.de/2018/ten-years-of-Vim/) by Matthias Endler \(more of the core fundamentals and why people like vim so much\)
-* [Intermediate Vim](https://mkaz.blog/code/intermediate-vim/) by Marcus Kazmierczak \(actually, it’s quite basic, it goes from modes to movements to macros\)
-* [vim after 15 years](https://statico.github.io/vim3.html) by Ian Langworth \(comparing plugins and configs\)
+* [ten years of vim](https://matthias-endler.de/2018/ten-years-of-Vim/) by Matthias Endler \(core fundamentals and why people like vim so much\)
+* [Intermediate Vim](https://mkaz.blog/code/intermediate-vim/) by Marcus Kazmierczak \(movements, buffers, commands like global, search, and macros\)
+* [vim after 15 years](https://statico.github.io/vim3.html) by Ian Langworth \(comparing popular plugins and configs\)
 
