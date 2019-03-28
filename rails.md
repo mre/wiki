@@ -25,4 +25,5 @@ It's super easy to use [cache on rails](https://guides.rubyonrails.org/caching_w
 
 * cache should **never** be a requirement for your app
 * your app should load **good** without cache and **really good** with cache
+* no cache is better than any type of cache, only use cache as the last resort
 
