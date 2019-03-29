@@ -22,5 +22,9 @@ This was inspired on Nikita Voloboev’s [wiki](https://wiki.nikitavoloboev.xyz/
 * [The Rails 5 Way](https://leanpub.com/tr5w) by Obie Fernandez and Kevin Faustino
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson \(free online\)
 
+## Blogs
+
+* [Oleh's blog](https://www.ludyna.com/oleh/posts) \(AI, DCI, OOP, software architecture\)
+
 
 
