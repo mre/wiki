@@ -17,9 +17,9 @@ This was inspired on Nikita Voloboev’s [wiki](https://wiki.nikitavoloboev.xyz/
 
 ## Books
 
-* [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled) by by Wladston Ferreira Filho
-* [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
-* [The Rails 5 Way](https://www.goodreads.com/book/show/30990216-the-rails-5-way) by Obie Fernandez and Kevin Faustino
+* [Computer Science Distilled](https://code.energy/computer-science-distilled/) by by Wladston Ferreira Filho
+* [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) by Andrew Hunt and David Thomas
+* [The Rails 5 Way](https://leanpub.com/tr5w) by Obie Fernandez and Kevin Faustino
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson \(free online\)
 
 
