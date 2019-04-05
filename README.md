@@ -25,8 +25,8 @@ This was inspired on Nikita Voloboev’s [wiki](https://wiki.nikitavoloboev.xyz/
 ## Blogs
 
 * [Oleh's blog](https://www.ludyna.com/oleh/posts) \(AI, DCI, OOP, software architecture\)
-* [thoughtbot's upcase](https://thoughtbot.com/upcase/practice) \(a TON of good content, ruby, rails, vim, tmux, testing, design, advanced rails\)
-* [arkency's blog](https://blog.arkency.com) ****\(ruby, rails, random posts about problems a consulting company has to go through\)
+* [Thoughtbot's upcase](https://thoughtbot.com/upcase/practice) \(a TON of good content, ruby, rails, vim, tmux, testing, design, advanced rails\)
+* [Arkency's blog](https://blog.arkency.com) ****\(ruby, rails, random posts about problems a consulting company has to go through\)
 
 
 
