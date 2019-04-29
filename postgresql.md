@@ -23,7 +23,7 @@ WHERE state = 'active' AND (now() - query_start) > interval '10 seconds';
 
 ## Index
 
-Indexes are great for performance but it can be painful if you misuse it.
+Indexes are great for performance but they can be very painful if misused.
 
 A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. -- [Wikipedia](https://en.wikipedia.org/wiki/Database_index)
 
