@@ -19,5 +19,7 @@ User.find_each do |user|
 end
 ```
 
-## 
+## Books
+
+* [The Rails 5 Way](https://leanpub.com/tr5w) by Obie Fernandez and Kevin Faustino
 

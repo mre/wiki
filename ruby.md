@@ -12,3 +12,7 @@ description: >-
 * [rack-attack](https://github.com/kickstarter/rack-attack) \(rack middleware for blocking & throttling abusive requests\)
 * [sidekiq](https://github.com/mperham/sidekiq) \(background processing for ruby, freemium, but really good, +7B processed jobs at [Fera.ai](https://www.fera.ai/)\)
 
+## Books
+
+* [I love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A K \(amazing book about ruby\)
+
