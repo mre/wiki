@@ -15,4 +15,5 @@ description: >-
 ## Books
 
 * [I love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A K \(amazing book about ruby\)
+* [Design Patterns in Ruby](https://bogdanvlviv.com/posts/ruby/patterns/design-patterns-in-ruby.html) by Bogdan Denkovych
 

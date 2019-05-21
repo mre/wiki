@@ -27,7 +27,7 @@ Indexes are great for performance but they can be very painful if misused.
 
 A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. -- [Wikipedia](https://en.wikipedia.org/wiki/Database_index)
 
-Basically, if you need to query a table by column1 and column2 **often enough** you can create an  index that will improve the performance of such query greatly.
+Basically, if you query a table by certain columns **often enough** you can create an index that will improve the performance of such query greatly.
 
 The cost is that you save that index into memory \(RAM\) which is limited.
 
@@ -55,5 +55,5 @@ FROM (
      ) AS pretty_sizes;
 ```
 
-
+Basely on how much GB \(gigabytes\) we use today, how much GB the table that we want to add the index uses and how much GB are available in the server we may decided to add the index or find a different solution to improve performance.
 
