@@ -12,10 +12,13 @@ This was inspired on Nikita Voloboev’s [wiki](https://wiki.nikitavoloboev.xyz/
 
 ## Books
 
-* [Computer Science Distilled](https://code.energy/computer-science-distilled/) by Wladston Ferreira Filho
 * [Apprenticeship Patterns](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Adewale Oshineye, Dave Hoover
+* [Computer Science Distilled](https://code.energy/computer-science-distilled/) by Wladston Ferreira Filho
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) \(list with books about ruby, rails, git, elixir and much more\)
 * [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) by Andrew Hunt and David Thomas
-* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson \(free online
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson \(free online\)
+
+
 
 ## Blogs
 
